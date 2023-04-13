@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  padding: 20px;
+  font-size: 30px;
+  color: rgb(94, 2, 232);
+  background-color: #cf125a;
+}
+
+section h2 {
+  font-size: 150px;
+  background: #121FCF;
+  background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+
